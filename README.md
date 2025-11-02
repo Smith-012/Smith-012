@@ -14,5 +14,6 @@ I’m a student learning software development. I like building small projects to
 
 ## Contact
 - E-mail Id : smithsp5177@gmail.com
+- Contact No. : +918424939366
 - LinkedIn : [Smith Patel](https://linkedin.com/in/yourprofile)
-- Instagram : https://www.instagram.com/_s.p._012/?utm_source=qr
+- Instagram : https://www.instagram.com/_.aquarius._012/?utm_source=qr

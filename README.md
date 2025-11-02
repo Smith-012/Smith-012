@@ -97,8 +97,3 @@ I’m a student learning software development. I like building small projects to
   <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/></p>
 
 ---
-
-### ✨ Notes / How to use
-- Replace placeholders (links, projects, and skills) with your information.
-- The stats and extra widgets use third-party services (github-readme-stats, skillicons, etc.). Remove them if you prefer not to load external images.
-- Make the README visible on your profile by creating a public repo named exactly: Smith-012 and committing this README.md to its default branch.

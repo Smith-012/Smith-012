@@ -1,4 +1,4 @@
-# नमस्कार 🙏 , I'm Smith S. Patel
+# <p align="center">जय श्री कृष्ण 🙏 , I'm Smith S. Patel</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=600&lines=Learning+web+and+backend+development;Building+small+projects+to+learn;Collaborating+and+contributing+to+open+source" alt="Animated typing" />

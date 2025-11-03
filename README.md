@@ -1,4 +1,4 @@
-# Smith S. Patel (Smith-012)
+# नमस्कार 🙏 , I'm Smith S. Patel
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=600&lines=Learning+web+and+backend+development;Building+small+projects+to+learn;Collaborating+and+contributing+to+open+source" alt="Animated typing" />
@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <strong>Student • Aspiring Full-Stack Developer • Learning by building</strong>
+  <strong>Student • Aspiring Python Developer • Learning by building new Projects</strong>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 Hello — I'm Smith S. Patel (GitHub: @Smith-012). I'm a student learning software development by building small projects and documenting what I learn. I enjoy web development, backend work, automation, and beginner-friendly open source.
 
 Quick facts:
-- 🎓 Student
+- 🎓 Student (Currently Pursuing MCA [Sem-3])
 - 💻 Languages & tools: HTML5, CSS3, JavaScript, PHP, MySQL, Linux Shell Scripting
 - 🌱 Currently learning: Python, Git, GitHub, React, TypeScript, testing
 - 🔭 Working on: a personal portfolio and beginner projects

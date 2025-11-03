@@ -1,4 +1,4 @@
-<p align="center">जय श्री कृष्ण 🙏 , I'm Smith</p>
+# <p align="center">जय श्री कृष्ण 🙏 , I'm Smith</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=600&lines=Learning+frontend+and+backend+development;Building+small+projects+to+learn;Collaborating+and+contributing+to+open+source" alt="Animated typing" />
@@ -22,7 +22,6 @@
 - [Contact](#contact)
 - [Contributing & Tips](#contributing--tips)
 - [Acknowledgements & Badges](#acknowledgements--badges)
-- [Profile Views](#profile-views)
 - [License](#license)
 
 ---
@@ -31,7 +30,7 @@
 Hello — I'm Smith S. Patel (GitHub: @Smith-012). I'm a student learning software development by building small projects and documenting what I learn. I enjoy web development, backend work, automation, and beginner-friendly open source.
 
 Quick facts:
-- 🎓 Student (Currently Pursuing MCA — Sem 3)
+- 🎓 Student (Currently Pursuing MCA [Sem-3])
 - 💻 Languages & tools: HTML5, CSS3, JavaScript, PHP, MySQL, Linux Shell Scripting
 - 🌱 Currently learning: Python, Git, GitHub, React, TypeScript, testing
 - 🔭 Working on: a personal portfolio and beginner projects
@@ -122,6 +121,15 @@ GitHub stats and badges (auto-generated):
 
 ---
 
+## License
+This repository's README and personal profile content are free to reuse. Add an explicit LICENSE file to the repo if you want a specific license (MIT, Apache-2.0, etc.).
+
+---
+
+Thank you for visiting — I’m always learning and happy to connect!
+ in this i need profile views also
+---
+
 ## Profile Views
 I added a profile views badge so visitors can see how many times your GitHub profile has been viewed.
 <p align="center">
@@ -140,4 +148,5 @@ This repository's README and personal profile content are free to reuse. Add an 
 ---
 
 Thank you for visiting — I’m always learning and happy to connect!
-```
+
+---

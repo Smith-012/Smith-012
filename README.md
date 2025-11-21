@@ -20,7 +20,7 @@
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
 - [Contact](#contact)
 - [Acknowledgements & Badges](#acknowledgements--badges)
-
+- [Profile Views](#)
 ---
 
 ## About Me
@@ -84,7 +84,7 @@ Tools / DBs / Infra:
 ---
 
 ## Acknowledgements & Badges
-GitHub stats and badges (auto-generated):
+GitHub stats and badges :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smith-012&layout=compact&theme=tokyonight" height="170em" />
@@ -94,16 +94,13 @@ GitHub stats and badges (auto-generated):
   <img src="https://streak-stats.demolab.com?user=Smith-012&theme=tokyonight" height="140em" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smith-012&theme=discord&margin-w=15&margin-h=15"/>
-</p>
-
 ---
 
 Thank you for visiting — I’m always learning and happy to connect!
  
 ---
 
+#
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue" alt="profile views" />
 </p>

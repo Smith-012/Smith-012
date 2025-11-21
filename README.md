@@ -74,14 +74,15 @@ Tools / DBs / Infra :-
 
 ## Connect With Me
 <p align="center">
+<a href="tel:+918424939366" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/phone.svg" alt="phone" height="30" width="40" />
+</a>
+<a href="mailto:smithsp5177@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+</a>
 <a href="https://in.linkedin.com/in/smith-patel-37a474245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash patel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.aquarius._012/?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaxsh_03" height="30" width="40" /></a>
 </p>
-- E-mail Id : smithsp5177@gmail.com  
-- Phone : +91 84249 39366  
-- LinkedIn : https://in.linkedin.com/in/smith-patel-37a474245 
-- Instagram : https://www.instagram.com/_.aquarius._012/?utm_source=qr  
-- GitHub : https://github.com/Smith-012
 
 ---
 

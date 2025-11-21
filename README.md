@@ -77,11 +77,8 @@ Tools / DBs / Infra :-
 <a href="tel:+918424939366" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/phone.svg" alt="phone" height="30" width="40" />
 </a>
-<a href="mailto:smithsp5177@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
 <a href="mailto:smithsp5177@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  <img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" alt="gmail" height="30" width="40" />
 </a>
 <a href="https://in.linkedin.com/in/smith-patel-37a474245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash patel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.aquarius._012/?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaxsh_03" height="30" width="40" /></a>

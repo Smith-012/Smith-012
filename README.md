@@ -58,13 +58,9 @@ Tools / DBs / Infra:
 ---
 
 ## Projects
+
 - Project A — short one-line description  
   https://github.com/Smith-012/project-a
-
-- Project B — short one-line description  
-  https://github.com/Smith-012/project-b
-
-(For each project — add a README with: purpose, tech used, how to run, screenshots, and a demo link if available.)
 
 ---
 

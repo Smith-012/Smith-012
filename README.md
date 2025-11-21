@@ -45,12 +45,12 @@ I build small projects to practice and apply new skills. I like projects that le
 ---
 
 ## Tech Stack
-Core:
+Core :-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,react,git,php" alt="core tech icons" />
 </p>
 
-Tools / DBs / Infra:
+Tools / DBs / Infra :-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,postgres,sqlite,mysql,vercel" alt="tools icons" />
 </p>
@@ -73,9 +73,13 @@ Tools / DBs / Infra:
 ---
 
 ## Connect With Me
+<p align="center">
+<a href="https://in.linkedin.com/in/smith-patel-37a474245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash patel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.aquarius._012/?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaxsh_03" height="30" width="40" /></a>
+</p>
 - E-mail Id : smithsp5177@gmail.com  
 - Phone : +91 84249 39366  
-- LinkedIn : https://in.linkedin.com/in/smith-patel-37a474245  
+- LinkedIn : https://in.linkedin.com/in/smith-patel-37a474245 
 - Instagram : https://www.instagram.com/_.aquarius._012/?utm_source=qr  
 - GitHub : https://github.com/Smith-012
 

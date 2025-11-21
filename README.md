@@ -19,9 +19,7 @@
 - [Projects](#projects)
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
 - [Contact](#contact)
-- [Contributing & Tips](#contributing--tips)
 - [Acknowledgements & Badges](#acknowledgements--badges)
-- [License](#license)
 
 ---
 
@@ -85,13 +83,6 @@ Tools / DBs / Infra:
 
 ---
 
-## Contributing & Tips
-- Contributions are welcome. Open an issue or a PR with a clear description.
-- If you'd like to collaborate or give feedback on a project, please reach out via email or LinkedIn.
-- When opening PRs, include: what you changed, why, and how to test it.
-
----
-
 ## Acknowledgements & Badges
 GitHub stats and badges (auto-generated):
 <p align="center">
@@ -106,11 +97,6 @@ GitHub stats and badges (auto-generated):
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Smith-012&theme=discord&margin-w=15&margin-h=15"/>
 </p>
-
----
-
-## License
-This repository's README and personal profile content are free to reuse. Add an explicit LICENSE file to the repo if you want a specific license (MIT, Apache-2.0, etc.).
 
 ---
 

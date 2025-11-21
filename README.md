@@ -59,8 +59,8 @@ Tools / DBs / Infra:
 
 ## Projects
 
-- Project A — short one-line description  
-  https://github.com/Smith-012/project-a
+- Small Web Projects — Eye-catching front-end projects and UI experiments — perfect for learning, remixing, or adding visual polish to your sites.
+  [https://github.com/Smith-012/project-a](https://github.com/Smith-012/small_web_projects)
 
 ---
 

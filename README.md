@@ -19,7 +19,7 @@
 - [Projects](#projects)
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
 - [Contact](#contact)
-- [Acknowledgements & Badges](#acknowledgements--badges)
+- [GitHub & Badges](#github-badges)
 - [Profile Views](#0)
 ---
 
@@ -83,7 +83,7 @@ Tools / DBs / Infra:
 
 ---
 
-## Acknowledgements & Badges
+## GitHub & Badges
 GitHub stats and badges :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
@@ -99,7 +99,7 @@ GitHub stats and badges :
 Thank you for visiting — I’m always learning and happy to connect!
  
 ---
-#0
+## 0
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue" alt="profile views" />
 </p>

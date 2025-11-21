@@ -18,7 +18,6 @@
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
-- [How to Run My Projects (quick)](#how-to-run-my-projects-quick)
 - [Contact](#contact)
 - [Contributing & Tips](#contributing--tips)
 - [Acknowledgements & Badges](#acknowledgements--badges)
@@ -77,17 +76,6 @@ Tools / DBs / Infra:
 
 ---
 
-## How to Run My Projects (quick)
-1. Clone the repo: git clone <repo-url>
-2. Change directory: cd <project-folder>
-3. Install dependencies (example): npm install
-4. Start (example): npm start
-5. For backend projects: set up .env, configure DB, run migrations, then start.
-
-(Each project has specific instructions in its README — check them for exact commands.)
-
----
-
 ## Contact
 - E-mail: smithsp5177@gmail.com  
 - Phone: +91 84249 39366  
@@ -127,7 +115,7 @@ This repository's README and personal profile content are free to reuse. Add an 
 ---
 
 Thank you for visiting — I’m always learning and happy to connect!
- in this i need profile views also
+ 
 ---
 
 ## Profile Views
@@ -139,14 +127,3 @@ I added a profile views badge so visitors can see how many times your GitHub pro
 Tip: The Komarev ghpvc badge updates automatically. If you prefer a different style or color, change the query parameters:
 - style: for-the-badge | flat | plastic
 - color: any CSS color name or hex
-
----
-
-## License
-This repository's README and personal profile content are free to reuse. Add an explicit LICENSE file to the repo if you want a specific license (MIT, Apache-2.0, etc.).
-
----
-
-Thank you for visiting — I’m always learning and happy to connect!
-
----

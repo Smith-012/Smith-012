@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <strong>MCA Student • Entry Level Python Developer • Learning by building new Projects</strong>
+  <strong>MCA Student • Entry Level Full Stack Developer • Learning by building new Projects</strong>
 </p>
 
 ---

@@ -104,12 +104,6 @@ Thank you for visiting — I’m always learning and happy to connect!
  
 ---
 
-## Profile Views
-I added a profile views badge so visitors can see how many times your GitHub profile has been viewed.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue" alt="profile views" />
 </p>
-
-Tip: The Komarev ghpvc badge updates automatically. If you prefer a different style or color, change the query parameters:
-- style: for-the-badge | flat | plastic
-- color: any CSS color name or hex

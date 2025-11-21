@@ -18,7 +18,7 @@
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
-- [Contact](#contact)
+- [Connect With Me](#connect-with-me)
 - [GitHub & Badges](#github--badges)
 - [Profile Views](#profile-views)
 
@@ -72,12 +72,12 @@ Tools / DBs / Infra:
 
 ---
 
-## Contact
-- E-mail: smithsp5177@gmail.com  
-- Phone: +91 84249 39366  
-- LinkedIn: https://in.linkedin.com/in/smith-patel-37a474245  
-- Instagram: https://www.instagram.com/_.aquarius._012/?utm_source=qr  
-- GitHub: https://github.com/Smith-012
+## Connect With Me
+- E-mail Id : smithsp5177@gmail.com  
+- Phone : +91 84249 39366  
+- LinkedIn : https://in.linkedin.com/in/smith-patel-37a474245  
+- Instagram : https://www.instagram.com/_.aquarius._012/?utm_source=qr  
+- GitHub : https://github.com/Smith-012
 
 ---
 

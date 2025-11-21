@@ -77,6 +77,9 @@ Tools / DBs / Infra :-
 <a href="tel:+918424939366" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/phone.svg" alt="phone" height="30" width="40" />
 </a>
+<a href="mailto:smithsp5177@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+</a>
 <a href="mailto:smithsp5177@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
 </a>

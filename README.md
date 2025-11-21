@@ -86,7 +86,7 @@ Tools / DBs / Infra :-
 <a id="github--badges"></a>
 GitHub stats and badges :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&locale=en&layout=compact" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smith-012&layout=compact&theme=tokyonight" height="170em" />
 </p>
 

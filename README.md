@@ -20,7 +20,7 @@
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
 - [Contact](#contact)
 - [GitHub & Badges](#github--badges)
-- [Profile Views](# )
+- [Profile Views](#profile-views)
 
 ---
 
@@ -84,7 +84,7 @@ Tools / DBs / Infra:
 
 ---
 
-## GitHub & Badges
+<a id="github--badges"></a>
 GitHub stats and badges :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
@@ -103,7 +103,7 @@ Thank you for visiting — I’m always learning and happy to connect!
 
 ---
 
-##  
+<a id="profile-views"></a>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue" alt="profile views" />
 </p>

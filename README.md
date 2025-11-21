@@ -60,7 +60,7 @@ Tools / DBs / Infra:
 ## Projects
 
 - Small Web Projects :-<br>
-  👉 Eye-catching front-end projects and UI experiments — perfect for learning, remixing, or adding visual polish to your sites.
+  👉 Eye-catching front-end projects and UI experiments — perfect for learning, remixing, or adding visual polish to your sites.<br>
   🔗 [https://github.com/Smith-012/small_web_projects](https://github.com/Smith-012/small_web_projects)
 
 ---

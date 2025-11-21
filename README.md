@@ -107,6 +107,3 @@ Thank you for visiting — I’m always learning and happy to connect!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue" alt="profile views" />
 </p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Smith-012" alt="visitor badge"/>
-</p>

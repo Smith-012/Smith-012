@@ -20,7 +20,7 @@
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
 - [Contact](#contact)
 - [Acknowledgements & Badges](#acknowledgements--badges)
-- [Profile Views](#)
+- [Profile Views](#0)
 ---
 
 ## About Me
@@ -99,8 +99,7 @@ GitHub stats and badges :
 Thank you for visiting — I’m always learning and happy to connect!
  
 ---
-
-#
+#0
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue" alt="profile views" />
 </p>

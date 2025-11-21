@@ -78,7 +78,7 @@ Tools / DBs / Infra :-
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/phone.svg" alt="phone" height="30" width="40" />
 </a>
 <a href="mailto:smithsp5177@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="gmail.jpg" alt="smithsp5177@gmail.com" height="30" width="40" />
+  <img align="center" src="gmail.png" alt="smithsp5177@gmail.com" height="30" width="40" />
 </a>
 <a href="https://in.linkedin.com/in/smith-patel-37a474245" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Smith Patel - LinkedIn" height="30" width="40" />

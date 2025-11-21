@@ -96,8 +96,10 @@ GitHub stats and badges :
 
 ---
 
+<p  align="center">
 Thank you for visiting — I’m always learning and happy to connect!
- 
+</p>
+
 ---
 
 <p align="center">

@@ -90,7 +90,7 @@ Tools / DBs / Infra :-
 <!-- Stats + Languages -->
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&count_private=true&theme=tokyonight&cache_seconds=1" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" />
 </p>
 

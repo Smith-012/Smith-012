@@ -91,6 +91,7 @@ Tools / DBs / Infra :-
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" />
 </p>
 
 <!-- Streak -->
@@ -105,7 +106,6 @@ Tools / DBs / Infra :-
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/badge/Following-{{FOLLOWING_COUNT}}-1E90FF?style=for-the-badge" />
 </p>
 
 ---

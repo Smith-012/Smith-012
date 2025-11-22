@@ -84,19 +84,6 @@ Tools / DBs / Infra :-
 ---
 
 <a id="github--badges"></a>
-GitHub stats and badges :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" height="170em" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Smith-012&theme=tokyonight" height="140em" />
-</p>
-
----
-
-<a id="github--badges"></a>
 
 <h2 align="center">📊 GitHub Stats & Badges</h2>
 
@@ -116,9 +103,22 @@ GitHub stats and badges :
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smith-012&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/badge/Following-{{FOLLOWING_COUNT}}-1E90FF?style=for-the-badge" />
+</p>
+
+---
+
+<a id="github--badges"></a>
+GitHub stats and badges :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" height="170em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Smith-012&theme=tokyonight" height="140em" />
 </p>
 
 ---

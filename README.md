@@ -88,6 +88,13 @@ GitHub stats and badges :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?
+username=Smith-012
+&layout=compact
+&theme=tokyonight
+&count_private=true
+&cache_seconds=1
+&hide=hack" height="170em" />
 </p>
 
 <p align="center">

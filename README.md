@@ -87,12 +87,38 @@ Tools / DBs / Infra :-
 GitHub stats and badges :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smith-012&theme=tokyonight" height="170em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" height="170em" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Smith-012&theme=tokyonight" height="140em" />
+</p>
+
+---
+
+<a id="github--badges"></a>
+
+<h2 align="center">📊 GitHub Stats & Badges</h2>
+
+<!-- Stats + Languages -->
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&count_private=true&theme=tokyonight" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img height="150em" src="https://streak-stats.demolab.com?user=Smith-012&theme=tokyonight" />
+</p>
+
+<!-- Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smith-012&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

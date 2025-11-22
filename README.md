@@ -87,8 +87,7 @@ Tools / DBs / Infra :-
 GitHub stats and badges :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yash5302&show_icons=true" alt="Smith-012" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smith-012&theme=tokyonight" height="170em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" height="170em" />
 </p>
 

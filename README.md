@@ -90,7 +90,6 @@ Tools / DBs / Infra :-
 <!-- Stats + Languages -->
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&count_private=true&theme=tokyonight&cache_seconds=1" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" />
 </p>
 
@@ -106,19 +105,6 @@ Tools / DBs / Infra :-
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen" />
-</p>
-
----
-
-<a id="github--badges"></a>
-GitHub stats and badges :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1" height="170em" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Smith-012&theme=tokyonight" height="140em" />
 </p>
 
 ---

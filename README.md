@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <strong>MCA Student • Entry Level Full Stack Developer • Learning by building new Projects</strong>
+  <strong>MCA Student • Eager to Learn Full Stack Developement • Learning by building new Projects</strong>
 </p>
 
 ---
@@ -33,8 +33,8 @@ I enjoy web development, backend work, automation, and beginner-friendly open so
 
 Quick facts :-
 - 🎓 Student (Currently Pursuing MCA [Sem-3])
-- 💻 Languages & tools : HTML5, CSS3, JavaScript, PHP, MySQL, Linux Shell Scripting
-- 🌱 Currently learning : Python, Git, GitHub, React, TypeScript, testing
+- 💻 Languages & tools : HTML5, CSS3, JavaScript, PHP, MySQL, Python
+- 🌱 Currently learning : Laravel, Git, GitHub, React, TypeScript, testing
 - 🔭 Working on : a personal portfolio and beginner projects
 - ✍️ I write short guides and keep notes of what I learn
 

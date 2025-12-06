@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <strong>MCA Student • Eager to Learn Full Stack Developement • Learning by building new Projects</strong>
+  <strong>MCA Student • Eager to Learn Full Stack & Python Developement • Learning by building new Projects</strong>
 </p>
 
 ---

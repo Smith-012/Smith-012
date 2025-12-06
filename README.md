@@ -100,8 +100,15 @@ Tools / DBs / Infra :-
 
 <!-- Stats + Languages -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Smith-012&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight" />
+
+<!-- Repo primary languages (by repo) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Smith-012&theme=tokyonight" />
+
+<!-- Most commit language (by commits) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smith-012&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1" />
 </p>
 
 <!-- Streak -->

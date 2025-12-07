@@ -100,10 +100,7 @@ Tools / DBs / Infra :-
 
 <!-- Stats + Languages -->
 <p align="center">
-<!-- Most commit language (by commits) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight" />
 </p>
 

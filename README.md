@@ -54,12 +54,12 @@ I build small projects to practice and apply new skills. I like projects that le
 <h2>🧰 Tech & Tools I Use</h2>
 Core :-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,react,git,php" alt="core tech icons" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,php,laravel,bootstrap,flask" alt="core tech icons" />
 </p>
 
 Tools / DBs / Infra :-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postgres,sqlite,mysql,vercel" alt="tools icons" />
+  <img src="https://skillicons.dev/icons?i=github,postgres,sqlite,mysql,vercel,git" alt="tools icons" />
 </p>
 
 ---

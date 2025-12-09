@@ -106,8 +106,9 @@ Tools / DBs / Infra :-
 
 <!-- Streak -->
 <p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=Smith-012&theme=tokyonight" />
+  <img height="150em" src="https://streak-stats.vercel.app?user=Smith-012&theme=tokyonight" />
 </p>
+
 
 <!-- Profile Summary -->
 <p align="center">

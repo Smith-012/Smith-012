@@ -77,7 +77,7 @@ Tools / DBs / Infra :-
 
 - Python Projects :-<br>
   👉 Hands-on Python experiments, featuring Flask web apps and polished GUI applications for learning purpose.<br>
-  🔗 [https://github.com/Smith-012/small_web_projects](https://github.com/Smith-012/python_projects)
+  🔗 [https://github.com/Smith-012/python_projects](https://github.com/Smith-012/python_projects)
 
 ---
 

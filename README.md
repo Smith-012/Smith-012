@@ -112,11 +112,15 @@ Tools / DBs / Infra :-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight" />
 </p>
 
+<!-- Top Languages -->
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Smith-012"/>
+</p>
+
 <!-- Streak -->
 <p align="center">
   <img height="150em" src="https://streak-stats.vercel.app?user=Smith-012&theme=tokyonight" />
 </p>
-
 
 <!-- Profile Summary -->
 <p align="center">

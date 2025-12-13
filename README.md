@@ -108,27 +108,27 @@ Tools / DBs / Infra :-
 
 <!-- Stats + Languages -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1&cache=0" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight&cache=0" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Smith-012"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache=0" alt="Smith-012"/>
 </p>
 
 <!-- Streak -->
 <p align="center">
-  <img height="150em" src="https://streak-stats.vercel.app?user=Smith-012&theme=tokyonight" />
+  <img height="150em" src="https://streak-stats.vercel.app?user=Smith-012&theme=tokyonight&cache=0" />
 </p>
 
 <!-- Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight&cache=0" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen&cache=0" />
 </p>
 
 ---
@@ -141,5 +141,5 @@ Thank you for visiting — I’m always learning and happy to connect!
 
 <a id="profile-views"></a>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue&cache=0" alt="profile views" />
 </p>

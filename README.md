@@ -32,7 +32,7 @@ I'm a student learning software development by building small projects and docum
 I enjoy web development, backend work, automation, and beginner-friendly open source.
 
 Quick facts :-
-- 🎓 Student (Currently Pursuing MCA [Sem-3])
+- 🎓 Student (Currently Pursuing MCA)
 - 💻 Languages & tools : HTML5, CSS3, JavaScript, PHP, MySQL, Python
 - 🌱 Currently learning : Laravel, Git, GitHub, React, TypeScript, testing
 - 🔭 Working on : a personal portfolio and beginner projects

@@ -109,7 +109,7 @@ Tools / DBs / Infra :-
 <!-- Stats + Languages -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1&cache=0" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight&v=2&cache=0" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight&v=3&cache=0" />
 </p>
 
 <!-- Top Languages -->
@@ -124,7 +124,7 @@ Tools / DBs / Infra :-
 
 <!-- Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight&v=2&cache=0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight&v=3&cache=0" />
 </p>
 
 <p align="center">

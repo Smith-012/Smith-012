@@ -124,7 +124,7 @@ Tools / DBs / Infra :-
 
 <!-- Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight&cache=0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=github_dark&cache=0" />
 </p>
 
 <p align="center">

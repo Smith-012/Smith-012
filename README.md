@@ -54,12 +54,12 @@ I build small projects to practice and apply new skills. I like projects that le
 <h2>🧰 Tech & Tools I Use</h2>
 Core :-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,php,laravel,bootstrap,flask,ts" alt="core tech icons" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,php,laravel,bootstrap,flask,ts,java" alt="core tech icons" />
 </p>
 
 Tools / DBs / Infra :-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postgres,sqlite,mysql,vercel,git,mongodb" alt="tools icons" />
+  <img src="https://skillicons.dev/icons?i=github,postgres,sqlite,mysql,vercel,git,mongodb,vscode,androidstudio" alt="tools icons" />
 </p>
 
 ---
@@ -83,9 +83,9 @@ Tools / DBs / Infra :-
 
 <a id="how-i-work--currently-learning"></a>
 <h2>📚 How I Work / Currently Learning</h2>
-- Focused on small, incremental projects to build a portfolio.
-- Practicing: React, Node.js, REST APIs, unit testing, and TypeScript.
-- I commit frequently and try to make small, atomic changes so history is easy to follow.
+- Focused on small, incremental projects to build a portfolio.<br>
+- Practicing: React, Node.js, REST APIs, unit testing, Python, and TypeScript.<br>
+- I commit frequently and try to make small, atomic changes so history is easy to follow.<br>
 
 ---
 

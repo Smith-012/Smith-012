@@ -77,7 +77,7 @@ Tools / DBs / Infra :-
 
 - Python Projects :-<br>
   👉 Hands-on Python experiments, featuring Flask web apps and polished GUI applications for learning purpose.<br>
-  🔗 [https://github.com/Smith-012/python_projects](https://github.com/Smith-012/python_projects)
+  🔗 [https://github.com/Smith-012/python_projects](https://github.com/Smith-012?tab=repositories)
 
 ---
 
@@ -109,7 +109,7 @@ Tools / DBs / Infra :-
 <!-- Stats + Languages -->
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1&cache=0" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight&v=1&cache=0" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight&v=3&cache=0" />
 </p>
 
 <!-- Top Languages -->
@@ -124,7 +124,7 @@ Tools / DBs / Infra :-
 
 <!-- Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight&v=1&cache=0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight&v=3&cache=0" />
 </p>
 
 <p align="center">

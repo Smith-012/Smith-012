@@ -20,6 +20,7 @@
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
 - [Connect With Me](#connect-with-me)
 - [GitHub & Badges](#github--badges)
+- [Dev Joke](#dev-joke)
 - [Profile Views](#profile-views)
 
 ---
@@ -133,9 +134,41 @@ Tools / DBs / Infra :-
 
 ---
 
+<a id="dev-joke"></a>
+<!-- 😄 Dev Joke -->
+<h2 align="center">😄 Dev Joke</h2>
+
+<table align="center" width="900">
+  <tr>
+    <td style="
+      border: 2px solid #7AA2F7;
+      border-radius: 14px;
+      padding: 22px 30px;
+      background-color: #1A1B26;
+      color: #C0CAF5;
+      font-family: 'Fira Code', monospace;
+      font-size: 16px;
+    ">
+      <strong style="color:#7AA2F7;">❓ What is <code>localhost</code>?</strong>
+      <br><br>
+      <span style="color:#9ECE6A;">
+        💬 A place where our dreams run smoothly…<br>
+        until we deploy to production.
+      </span>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+<!--
 <p  align="center">
 Thank you for visiting — I’m always learning and happy to connect!
 </p>
+-->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=1,6,13&height=50&section=footer&text=Thank%20you%20for%20visiting%20—%20I’m%20always%20learning%20and%20happy%20to%20connect!&fontSize=15&fontColor=darkblack&animation=scaleIn" width="100%"
+/>
 
 ---
 

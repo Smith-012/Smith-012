@@ -167,7 +167,7 @@ Tools / DBs / Infra :-
 Thank you for visiting — I’m always learning and happy to connect!
 </p>
 -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=1,6,13&height=50&section=footer&text=Thank%20you%20for%20visiting%20—%20I’m%20always%20learning%20and%20happy%20to%20connect!&fontSize=15&fontColor=darkblack&animation=scaleIn" width="100%"
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=50&section=footer&text=Thank%20you%20for%20visiting%20—%20I’m%20always%20learning%20and%20happy%20to%20connect!&fontSize=25&fontColor=darkblack&animation=scaleIn" width="100%"
 />
 
 ---

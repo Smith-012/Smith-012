@@ -115,7 +115,8 @@ Tools / DBs / Infra :-
 
 <!-- Top Languages -->
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache=0" alt="Smith-012"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache=0" alt="Smith-012"/> -->
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Smith-012&layout=compact&theme=tokyonight" alt="Smith-012"/>
 </p>
 
 <!-- Streak -->
@@ -129,7 +130,7 @@ Tools / DBs / Infra :-
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen&cache=0" />
+  <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen&v=1&cache=0" />
 </p>
 
 ---

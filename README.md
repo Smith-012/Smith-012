@@ -72,14 +72,6 @@ Tools / DBs / Infra :-
   👉 A modern & professional web-based platform for discovering, managing, and renting residential and commercial properties.<br>
   🔗 [https://github.com/Smith-012/aashray_pro](https://github.com/Smith-012/aashray_pro)
 
-- Small Web Projects :-<br>
-  👉 Eye-catching front-end projects and UI experiments — perfect for learning, remixing, or adding visual polish to your sites.<br>
-  🔗 [https://github.com/Smith-012/small_web_projects](https://github.com/Smith-012/small_web_projects)
-
-- Python Projects :-<br>
-  👉 Hands-on Python experiments, featuring Flask web apps and polished GUI applications for learning purpose.<br>
-  🔗 [https://github.com/Smith-012/python_projects](https://github.com/Smith-012?tab=repositories)
-
 ---
 
 <a id="how-i-work--currently-learning"></a>

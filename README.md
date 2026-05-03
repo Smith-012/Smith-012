@@ -1,13 +1,13 @@
 # <p align="center">जय श्री कृष्ण 🙏 , I'm Smith</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=600&lines=Learning+frontend+and+backend+development;Building+small+projects+to+learn;Collaborating+and+contributing+to+open+source" alt="Animated typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=700&lines=Full+Stack+Developer+%7C+Python+Backend;Building+Scalable+Web+Apps+with+Django+%26+Flask;RESTful+APIs+%7C+JWT+Auth+%7C+Clean+Architecture;Always+Learning+%E2%80%94+Always+Building" alt="Animated typing" />
 </p>
 
 ---
 
 <p align="center">
-  <strong>Eager to Learn Full Stack & Python Developement • Learning by building new Projects</strong>
+  <strong>Full Stack Developer • Python Backend (Django / Flask) • MCA Student • Bhavnagar, Gujarat</strong>
 </p>
 
 ---
@@ -17,6 +17,7 @@
 - [What I Do](#what-i-do)
 - [Tech & Tools I Use](#tech--tools-i-use)
 - [Projects](#projects)
+- [Certifications](#certifications)
 - [How I Work / Currently Learning](#how-i-work--currently-learning)
 - [Connect With Me](#connect-with-me)
 - [GitHub & Badges](#github--badges)
@@ -28,26 +29,30 @@
 <a id="about-me"></a>
 <h2>🧑‍💻 About Me</h2>
 
-Hello — I'm Smith S. Patel (GitHub: @Smith-012).<br>
-I'm a student learning software development by building small projects and documenting what I learn.<br>
-I enjoy web development, backend work, automation, and beginner-friendly open source.
+Hello — I'm **Smith S. Patel** (GitHub: @Smith-012), a Full Stack Developer from **Bhavnagar, Gujarat**.<br>
+I specialise in Python backend development, building scalable web applications with **Django** and **Flask**, and designing clean RESTful APIs backed by solid database architecture.<br>
+I enjoy turning complex requirements into reliable, user-centric applications — from database schema design to responsive front-ends.
 
 Quick facts :-
-- 🎓 Student (Currently Pursuing MCA)
-- 💻 Languages & tools : HTML5, CSS3, JavaScript, PHP, MySQL, Python
-- 🌱 Currently learning : Laravel, Git, GitHub, React, TypeScript, testing
-- 🔭 Working on : a personal portfolio and beginner projects
-- ✍️ I write short guides and keep notes of what I learn
+- 🎓 Pursuing **MCA (2024 – 2026)** · G H Patel P.G.D.C.S.T. | Sardar Patel University, V. V. Nagar
+- 🎓 **BCA (2021 – 2024)** · Shree Swaminarayan College of Computer Science | MKBU
+- 💻 **Frontend :** HTML5, CSS3, Tailwind CSS, Bootstrap 5, JavaScript (ES6+), TypeScript, React.js
+- ⚙️ **Backend :** Python, Flask, Django, PHP, Laravel
+- 🗄️ **Databases :** MySQL, SQLite, PostgreSQL
+- 🛠️ **Tools :** Git, GitHub, Visual Studio Code
+- 🔭 **Currently building :** iCab (Taxi Booking System) · HabitX (Habit Tracker)
+- 🎯 **Seeking :** Python Backend / Django / Flask Developer opportunities
 
 ---
 
 <a id="what-i-do"></a>
 <h2>🎯 What I Do ?</h2>
 
-I build small projects to practice and apply new skills. I like projects that let me learn front-end, backend, and the deployment workflow.<br>My goals are to :-
-- Learn modern JavaScript and TypeScript tooling (React, Node.js)
-- Build REST APIs and connect them to front-ends
-- Get comfortable with version control, testing, and deployments
+I build full-stack web applications with a strong focus on Python backend development — clean architecture, secure APIs, and scalable databases.<br>My goals are to :-
+- Build production-grade Django / Flask REST APIs with JWT authentication and role-based access
+- Design efficient relational database schemas and optimise queries
+- Deliver responsive, functional front-ends paired with robust backend workflows
+- Contribute to open source and keep growing as a Python Backend / Full Stack Developer
 
 ---
 
@@ -55,7 +60,7 @@ I build small projects to practice and apply new skills. I like projects that le
 <h2>🧰 Tech & Tools I Use</h2>
 Core :-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,php,laravel,bootstrap,flask,ts,java" alt="core tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,html,css,php,laravel,tailwind,bootstrap" alt="core tech icons" />
 </p>
 
 Tools / DBs / Infra :-
@@ -68,17 +73,36 @@ Tools / DBs / Infra :-
 <a id="projects"></a>
 <h2>📂 Projects</h2>
 
-- Aashray :-<br>
-  👉 A modern & professional web-based platform for discovering, managing, and renting residential and commercial properties.<br>
+- **iCab – Taxi Booking System** *(Dec 2025 – Mar 2026)* :-<br>
+  👉 A scalable ride-hailing platform with Django REST APIs, JWT-based role authentication (Rider / Driver / Admin), a unified multi-role login gateway, hashed-PIN wallet system, Haversine fare calculation, and atomic transaction integrity.<br>
+  🛠️ *HTML5 · Tailwind CSS · JavaScript (ES6+) · Python · Django REST Framework · PostgreSQL · JWT*<br>
+  🔗 [https://github.com/Smith-012/iCab](https://github.com/Smith-012/iCab)
+
+- **HabitX – Habit Tracking Application** *(Feb 2026)* :-<br>
+  👉 A Flask-powered habit tracker with RESTful APIs, CRUD habit management, daily progress tracking, user activity history, and a clean responsive UI.<br>
+  🛠️ *Python · Flask · HTML5 · CSS3 · JavaScript (ES6+) · SQLite / MySQL*<br>
+  🔗 [https://github.com/Smith-012/HabitX](https://github.com/Smith-012/HabitX)
+
+- **Aashray – Rental Management System** *(Jun 2025 – Aug 2025)* :-<br>
+  👉 A full-stack rental management platform for property listing and tenant booking, featuring Laravel MVC architecture, role-based authentication, optimised DB schemas for properties / bookings / invoices, and automated invoice generation.<br>
+  🛠️ *HTML5 · CSS3 · JavaScript · Bootstrap 5 · jQuery · PHP · Laravel · MySQL*<br>
   🔗 [https://github.com/Smith-012/aashray_pro](https://github.com/Smith-012/aashray_pro)
+
+---
+
+<a id="certifications"></a>
+<h2>🏆 Certifications</h2>
+
+- 🐍 **Python Programming Certificate** — Certified by Science City, Bhavnagar *(Jun 2022)*
+- 💼 **Internship Completion Certificate** — WeIntern · Python Developer *(Dec 2025 – Mar 2026)*
 
 ---
 
 <a id="how-i-work--currently-learning"></a>
 <h2>📚 How I Work / Currently Learning</h2>
-- Focused on small, incremental projects to build a portfolio.<br>
-- Practicing: React, Node.js, REST APIs, unit testing, Python, and TypeScript.<br>
-- I commit frequently and try to make small, atomic changes so history is easy to follow.<br>
+- Focused on building production-quality, well-structured projects for a strong portfolio.<br>
+- Practising: Django REST Framework, Flask, JWT Auth, PostgreSQL, React, TypeScript, and clean code principles.<br>
+- I commit frequently and aim for small, atomic changes so history is easy to follow.<br>
 
 ---
 

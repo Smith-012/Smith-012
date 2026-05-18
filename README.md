@@ -109,7 +109,7 @@ Tools :-
 
 ### 1. iCab - Taxi Booking System
 **Live:** 👉 [https://icab.vercel.app](https://icab.vercel.app)<br>
-**Repo:** 👉 [https://github.com/Smith-012/iCab-Taxi_Booking_App](https://github.com/Smith-012/iCab-Taxi_Booking_App)<br>
+**Repo:** 👉 [https://github.com/Smith-012/iCab-taxi-booking-platform](https://github.com/Smith-012/icab-taxi-booking-platform)<br>
 A scalable ride-hailing platform with JWT authentication, digital wallet system, and real-time tracking.<br>
 **Tech:** Python, Django, REST APIs, PostgreSQL, JWT, Tailwind CSS
 

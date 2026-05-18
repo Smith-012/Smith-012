@@ -130,7 +130,7 @@ A full-stack productivity app with interactive dashboards, streak tracking, and 
 
 ---
 
-📂 **View all projects** → [Portfolio Projects](https://sp-012.vercel.app/projects)
+📂 **View all projects** → [Check Me](https://sp-012.vercel.app/projects)
 
 ---
 

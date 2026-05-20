@@ -116,6 +116,7 @@ A scalable ride-hailing platform with JWT authentication, digital wallet system,
 ---
 
 ### 2. Aashray - Property Management System
+**Live:** 👉 [https://aashray-pro.vercel.app/](https://aashray-pro.vercel.app/)<br>
 **Repo:** 👉 [https://github.com/Smith-012/Aashray_Pro](https://github.com/Smith-012/Aashray_Pro)<br>
 A comprehensive platform for rental property discovery, booking, and management with role-based dashboards.<br>
 **Tech:** PHP, Laravel, Bootstrap, MySQL, JavaScript
